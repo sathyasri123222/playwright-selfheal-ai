@@ -1,6 +1,6 @@
 {
   "name": "playwright-selfheal-ai",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "AI-powered self-healing locators for Playwright",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -32,7 +32,6 @@
     "url": "https://github.com/sathyasri123222/playwright-selfheal-ai/issues"
   },
   "homepage": "https://github.com/sathyasri123222/playwright-selfheal-ai#readme",
-
   "files": [
     "dist",
     "README_HeuristicHeal.md",
