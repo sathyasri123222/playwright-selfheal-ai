@@ -1,0 +1,34 @@
+{
+  "name": "playwright-selfheal-ai",
+  "version": "1.0.11",
+  "description": "AI-powered self-healing locators for Playwright",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "playwright",
+    "testing",
+    "self-healing",
+    "automation",
+    "ai"
+  ],
+  "author": "sathyasri kapisetti",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "typescript": "^5.9.2"
+  },
+  "files": [
+    "dist",
+    "README_HeuristicHeal.md",
+    "README_NextGenHeal.md",
+    "LICENSE",
+    "tests"
+  ]
+}
