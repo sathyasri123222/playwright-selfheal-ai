@@ -24,6 +24,15 @@
     "@playwright/test": "^1.40.0",
     "typescript": "^5.9.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathyasri123222/playwright-selfheal-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sathyasri123222/playwright-selfheal-ai/issues"
+  },
+  "homepage": "https://github.com/sathyasri123222/playwright-selfheal-ai#readme",
+
   "files": [
     "dist",
     "README_HeuristicHeal.md",
